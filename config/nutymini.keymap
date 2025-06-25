@@ -27,8 +27,8 @@
             bindings = <
 &kp TAB       &kp Q     &kp W  &kp E      &kp R              &kp T           &kp Y            &kp U             &kp I            &kp O           &kp P           &kp BSPC
 &kp LSHIFT    &kp A     &kp S  &kp D      &kp F              &kp G           &kp H            &kp J             &kp K            &kp L           &kp UP          &kp ENTER
-&kp LCTRL     &kp Z     &kp X  &kp C      &kp V              &kp B           &hm SEMICOLON N  &kp M             &none            &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW
-&kp LEFT_ALT  &kp LWIN  &to 1  &kp SLASH  &kp RIGHT_BRACKET  &studio_unlock  &studio_unlock   &kp SINGLE_QUOTE  &kp NON_US_HASH  &kp SPACE       &kp KP_COMMA    &kp DOT
+&kp LCTRL     &kp Z     &kp X  &kp C      &kp V              &kp B           &hm SEMICOLON N  &kp M             &hm DOT COMMA    &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW
+&kp LEFT_ALT  &kp LWIN  &to 1  &kp SLASH  &kp RIGHT_BRACKET  &studio_unlock  &studio_unlock   &kp SINGLE_QUOTE  &kp NON_US_HASH  &kp SPACE       &kp KP_COMMA    &kp NUBS
             >;
         };
 
